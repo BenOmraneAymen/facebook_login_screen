@@ -1,0 +1,96 @@
+label{
+    color: beige;
+}
+#facebook{
+    width: 175px;
+    height: 60px;
+}
+body{
+    margin: 0px;
+    padding: 0px;
+    background-color: #E7EBF2;
+}
+nav{
+    background-color: #3F5793;
+    display: flex;
+    justify-content: space-between;
+}
+#login{
+    margin: auto 40px;
+}
+img{
+    width: 50%;
+    height: 350px;
+    display: flex;
+}
+#signUp{
+    display: flex;
+}
+.sign{
+    width: 50%;
+}
+.titre{
+    margin-left: 15%;
+}
+label{
+    color: black;
+}
+.long{
+    width: 340px;
+}
+input{
+    margin: 5px;
+    padding:5px;    
+    border-radius: 5px;
+    border-color: #C7D0DE;
+}
+#email{
+    width: 125px;
+    height: 10px; 
+    margin: 1px;
+}
+#password{
+    width: 125px;
+    height: 10px;
+    margin: 1px;
+}
+#login_button{
+background-color: #627AAC;
+color: white;
+}
+#login_text{
+    color: white;
+    font-size: 20px;
+}
+select{
+    width: 60px;
+}
+#sign-up{
+    width: 150px;
+    height: 30px;
+    margin-top: 10px;
+    background-color: #5F9C4C;
+    border-radius: 6px;
+}
+.sign{
+    margin-left: 100px;
+}
+.titre{
+    margin-left: 5px;
+}
+select{
+    margin: 5px;
+}
+span{
+    margin: 10px;
+}
+.log{
+    display: inline-block;
+    
+}
+#log{
+    display: inline;
+}
+.login_button{
+    margin-right: 30px ;
+}
